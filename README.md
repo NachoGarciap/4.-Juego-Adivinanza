@@ -17,7 +17,7 @@ Sencillo juego hecho con Python donde el usuario debe adivinar un número aleato
 
 ✅ Mensajes dinámicos y feedback tras cada intento.
 
-🎮 Cómo jugar
+🎮 Cómo jugar:
 
 1️⃣ Al iniciar el programa, elige un nivel de dificultad.
 
