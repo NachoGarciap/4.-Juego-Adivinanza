@@ -1,5 +1,5 @@
 
-🎯 Juego de Adivinanza
+# 🎯 Juego de Adivinanza
 Un sencillo juego en Python donde el usuario debe adivinar un número aleatorio dentro de un rango. Incluye diferentes niveles de dificultad con un número limitado de intentos.
 
 📌 Características
