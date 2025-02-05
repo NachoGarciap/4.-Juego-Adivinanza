@@ -2,7 +2,7 @@
 # 🎯 Juego de Adivinanza
 Un sencillo juego en Python donde el usuario debe adivinar un número aleatorio dentro de un rango. Incluye diferentes niveles de dificultad con un número limitado de intentos.
 
-📌 Características
+# 📌 Características
 ✅ Tres niveles de dificultad:
 
 Nivel 1: Máximo 8 intentos
